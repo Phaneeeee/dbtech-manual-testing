@@ -27,10 +27,19 @@ This is a mock manual testing project for an employee benefits (Defined Benefits
 
 ## 📂 Folder Structure
 
-/TestCases → Test case Excel file (8 cases)
-/BugReports → Bug report file (5 bugs)
-/SQL → SQL queries for test case execution & DB setup
-/Docs → README and future documentation
+DBTech_Manual_Testing_Project/
+├── TestCases/                   
+│   └── TestCases_DBPortal.xlsx
+
+├── BugReports/                  
+│   └── BugReports_DBPortal.xlsx
+
+├── SQL/                         
+│   ├── db_setup.sql             
+│   └── TestQueries_DBPortal.sql
+
+├── Docs/                       
+│   └── README.md               
 
 
 ---
